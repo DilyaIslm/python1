@@ -1,0 +1,17 @@
+Last login: Mon May 18 18:47:41 on ttys002
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+MacBook-Air-Dilara:~ dilaraislamova$ cd ~/projects/lesson1/
+MacBook-Air-Dilara:lesson1 dilaraislamova$ code .
+MacBook-Air-Dilara:lesson1 dilaraislamova$ ls
+Visual Studio Code.app	hello.py
+MacBook-Air-Dilara:lesson1 dilaraislamova$ python3 hello.py
+Привет мир!
+MacBook-Air-Dilara:lesson1 dilaraislamova$ python3 hello.py
+Привет мир!
+Привет программист!
+4
+3.3333333333333335
+MacBook-Air-Dilara:lesson1 dilaraislamova$

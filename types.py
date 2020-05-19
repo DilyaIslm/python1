@@ -1,5 +1,6 @@
-user= "Dilya"
-b=f"Привет {user}!"
-print (b)
+a=2
+b=0.5
+print=(a+b)
+
 
 

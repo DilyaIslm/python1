@@ -1,0 +1,6 @@
+name = {"Dilya"}
+print(name)
+
+
+
+
